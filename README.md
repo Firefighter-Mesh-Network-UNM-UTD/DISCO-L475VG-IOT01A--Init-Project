@@ -1,4 +1,5 @@
 # B-L475E-IOT01A Discovery kit __Limitations__
+https://developer.pelion.com/docs/device-management/current/connecting/mbed-os.html 
 - Stack 
   - Wi-Fi
 - Link
