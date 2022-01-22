@@ -1,3 +1,15 @@
+# B-L475E-IOT01A Discovery kit __Limitations__
+- Stack 
+  - Wi-Fi
+- Link
+  - STLink 
+- Storage for credentials and FW candidate
+  - QSPI flash
+- Note
+  - For Wi-Fi stacks, you need to add your SSID and password information to the configuration file
+  - ![image](https://user-images.githubusercontent.com/54381052/150626451-47036cb2-365b-4633-b9dc-81591ca18383.png)
+
+
 # How to use Git and Mbed Compiler
 
 ## Import-> Import from URL 
